@@ -14,7 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        //test comment... need to be sure git is working?
+        // test comment... need to be sure git is working? 
+        // deleted and recreated repository...  test again?
         
         
     }
